@@ -540,4 +540,4 @@ _*This provides a comprehensive guide on provisioning an Amazon Elastic Kubernet
 # Hit the Star! ⭐
 ***If you are planning to use this repo for learning, please hit the star. Thanks!***
 
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
+#### Author by [Harshhaa Reddy](https://github.com/rakhi210)
